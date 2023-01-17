@@ -115,3 +115,6 @@ Execute the program
 
 # OUPUT
 ![output](html.png)
+
+# RESULT
+Created a html page for the timetable
