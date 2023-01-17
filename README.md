@@ -33,10 +33,10 @@ Execute the program
 <body>
    <table border = "1" cellspacing="5" bordercolor="blue" >
      <tr>
-        <th colspan ="8">TIME TABLE</th>
+        <th colspan ="10">TIME TABLE</th>
      </tr>
      <tr>
-     <th colspan="4" > Referance Number : 22009432</th><th colspan="4">Name : AUGUSTINE J</th>
+     <th colspan="6" > Referance Number : 22009432</th><th colspan="4">Name : AUGUSTINE J</th>
      </tr>
      <tr>
         <th>DAYS</th>
@@ -114,4 +114,4 @@ Execute the program
 </html>
 
 # OUPUT
-![output](tttt.png)
+![output](html.png)
